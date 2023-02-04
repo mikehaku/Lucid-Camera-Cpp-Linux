@@ -1,0 +1,196 @@
+Last time start: 2022.01.24 11:11:00.445637
+
+Last time start: 2022.01.24 11:13:51.324599   No camera connected
+
+Last time start: 2022.01.24 11:16:12.509501   Camera connected
+
+Last time start: 2022.01.24 11:19:00.52099   Camera connected
+
+Last time start: 2022.01.24 11:21:20.530194   No camera connected
+
+Last time start: 2022.01.24 11:22:28.545794   Camera connected
+
+Last time start: 2022.01.24 11:26:51.550336   Camera connected
+
+Last time start: 2022.01.24 11:29:30.722205   Camera connected
+
+Last time start: 2022.01.24 11:31:22.134425   Camera connected
+
+Last time start: 2022.01.24 11:39:25.299619   Camera connected
+
+Last time start: 2022.01.24 11:44:38.987866   Camera connected
+
+Last time start: 2022.01.24 11:48:54.754929   Camera connected
+
+Last time start: 2022.01.24 11:50:32.117850   Camera connected
+
+
+
+Last time start: 2022.01.24 12:45:31.55639   Camera connectedrecord succeeded
+record succeeded
+record succeeded
+
+Last time start: 2022.01.24 12:47:50.186182   Camera connected
+record succeeded
+
+record succeeded
+
+record succeeded
+
+
+
+
+Last time start: 2022.01.24 13:04:35.217633   Camera connected
+
+Last time start: 2022.01.24 13:08:39.374353   Camera connected
+
+Last time start: 2022.01.24 13:11:21.265122   Camera connected
+
+Last time start: 2022.01.24 13:14:39.315667   Camera connected
+
+Last time start: 2022.01.24 13:16:43.192608   No camera connected
+
+Last time start: 2022.01.24 13:20:00.644926   Camera connected
+
+GenICam exception thrown: RuntimeException: Node BalanceRatio not writable (GenApiCustom.cpp, SetNodeValue) (file 'GenApiCustom.cpp', line 490)
+
+Last time start: 2022.01.24 13:23:13.401872   Camera connected
+
+GenICam exception thrown: RuntimeException: Node BalanceRatio not writable (GenApiCustom.cpp, SetNodeValue) (file 'GenApiCustom.cpp', line 490)
+
+Last time start: 2022.01.24 13:24:25.684213   Camera connected
+
+GenICam exception thrown: RuntimeException: Node BalanceRatio not writable (GenApiCustom.cpp, SetNodeValue) (file 'GenApiCustom.cpp', line 490)
+
+Last time start: 2022.01.24 13:26:28.728117   Camera connected
+
+GenICam exception thrown: RuntimeException: Node BalanceRatio not writable (GenApiCustom.cpp, SetNodeValue) (file 'GenApiCustom.cpp', line 490)
+
+Last time start: 2022.01.24 13:29:30.264266   Camera connected
+
+GenICam exception thrown: RuntimeException: Node BalanceRatio not writable (GenApiCustom.cpp, SetNodeValue) (file 'GenApiCustom.cpp', line 490)
+
+Last time start: 2022.01.24 15:50:49.643244   Camera connected
+
+Last time start: 2022.01.24 15:57:23.471059   Camera connected
+
+Last time start: 2022.01.24 16:03:45.381982   Camera connected
+
+Last time start: 2022.01.24 16:39:12.257563   Camera connected
+
+Last time start: 2022.01.24 16:44:43.274693   Camera connected
+
+Last time start: 2022.01.24 16:46:44.58334   Camera connected
+
+Last time start: 2022.01.24 16:50:08.135225   Camera connected
+
+Last time start: 2022.01.24 16:51:55.318171   Camera connected
+
+Last time start: 2022.01.24 16:54:10.379413   Camera connected
+
+Last time start: 2022.01.24 16:56:16.54937   Camera connected
+
+Last time start: 2022.01.25 07:15:10.520050   Camera connected
+
+Last time start: 2022.01.25 12:45:32.892684   Camera connected
+
+
+
+
+Last time start: 2022.04.28 21:22:48.902826   Camera connected
+
+Last time start: 2023.01.10 20:57:55.70146   No camera connected
+
+Last time start: 2023.01.10 21:00:04.63059   Camera connected
+
+Last time start: 2023.01.11 07:34:22.313241   Camera connected
+
+Last time start: 2023.01.12 09:02:00.751127   Camera connected
+
+Last time start: 2023.01.13 09:08:02.51368   Camera connected
+
+Last time start: 2023.02.01 21:40:03.340011   Camera connected
+
+Last time start: 2023.02.01 21:44:36.843387   Camera connected
+
+Last time start: 2023.02.01 21:45:47.619302   Camera connected
+
+GenICam exception thrown: RuntimeException (GC_ERR_BUSY): Unable to write port: No Error (Port.cpp, Write; GenTL::GCWritePort); Error Stack:
+  -1022 GenTL::GC_ERR_BUSY(-1022) :
+      GenTL::HALGev::WriteReg Ack is invalid: -1019 : 
+ (file 'Port.cpp', line 82)
+
+Last time start: 2023.02.01 21:52:03.431457   Camera connected
+
+Last time start: 2023.02.01 21:52:52.119305   Camera connected
+
+Last time start: 2023.02.01 22:25:36.317582   Camera connected
+
+Last time start: 2023.02.01 22:36:17.244682   No camera connected
+
+Last time start: 2023.02.01 22:37:07.897351   Camera connected
+
+Last time start: 2023.02.01 22:37:17.762266   Camera connected
+
+GenICam exception thrown: AccessException (GC_ERR_ACCESS_DENIED): Unable to write port: No Error (Port.cpp, Write; GenTL::GCWritePort); Error Stack:
+  -1005 GenTL::GC_ERR_ACCESS_DENIED(-1005) :
+      GenTL::HALGev::WriteReg Ack is invalid: -1019 : address: 0x10300000, ACK = 0x83, status = 0x8006, ack_id = 0x83, length = 0x4
+ (file 'Port.cpp', line 82)
+
+Last time start: 2023.02.01 22:38:08.79837   Camera connected
+
+Last time start: 2023.02.01 22:38:38.861290   Camera connected
+
+Last time start: 2023.02.01 22:40:49.780833   Camera connected
+
+Last time start: 2023.02.01 22:42:12.999328   Camera connected
+
+Last time start: 2023.02.01 22:43:08.204300   Camera connected
+
+Last time start: 2023.02.01 23:57:04.569209   Camera connected
+
+Last time start: 2023.02.02 00:01:36.850017   Camera connected
+
+Last time start: 2023.02.02 00:04:51.427537   Camera connected
+
+Last time start: 2023.02.02 00:05:20.428281   Camera connected
+
+Last time start: 2023.02.02 00:06:04.310186   Camera connected
+
+Last time start: 2023.02.02 00:07:41.349409   Camera connected
+
+Last time start: 2023.02.02 00:07:59.686801   Camera connected
+
+Last time start: 2023.02.02 00:14:38.711290   Camera connected
+
+Last time start: 2023.02.02 00:19:24.662169   Camera connected
+
+Last time start: 2023.02.02 00:20:05.199533   Camera connected
+
+Last time start: 2023.02.02 00:21:25.354202   Camera connected
+
+Last time start: 2023.02.02 00:24:24.603645   Camera connected
+
+Last time start: 2023.02.02 00:26:31.441896   Camera connected
+
+Last time start: 2023.02.02 00:28:21.424853   Camera connected
+
+Last time start: 2023.02.02 00:29:29.122665   Camera connected
+
+Last time start: 2023.02.02 00:31:18.306517   Camera connected
+
+Last time start: 2023.02.02 00:32:44.943016   Camera connected
+
+Last time start: 2023.02.02 00:34:45.585614   Camera connected
+
+Last time start: 2023.02.04 00:33:32.189529   Camera connected
+
+Last time start: 2023.02.04 01:11:38.142619   No camera connected
+
+Last time start: 2023.02.04 01:12:18.825574   Camera connected
+
+Last time start: 2023.02.04 01:15:11.446939   Camera connected
+
+Last time start: 2023.02.04 14:27:46.290947   Camera connected
+
+Last time start: 2023.02.04 14:32:29.717063   Camera connected
