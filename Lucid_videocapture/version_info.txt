@@ -1,7 +1,7 @@
 Lucid Video Capture
 
-3 choices for video capture:
+There are 3 choices for video capture:
 
-1. Continous. Every 5 minutes a ".avi" format video.
+1. Continous. Every 5 minutes an ".avi" format video will be taken.
 2. Video. Only one video will be saved, with no duration limit.
 3. Calibration. Instead of videos, images will be taken for camera calibration. The number of images can be defined by user's command.  
