@@ -1,0 +1,146 @@
+
+Last time start: 2023.02.08 22:46:15.593153   
+GenICam exception thrown: RuntimeException (GenTL::GC_ERR_RESOURCE_IN_USE): Library already initialized (must initialize only once) (Arena.cpp, OpenSystem; GenTL::GCInitLib); Error Stack:
+  -1004 GenTL::GC_ERR_RESOURCE_IN_USE(-1004) :
+      GCInitLib():734: every call to GenTL::GCInitLib() must be matched with a call to GenTL::GCCloseLib() before calling GenTL::GCInitLib() again
+ (file 'Arena.cpp', line 31)
+
+Last time start: 2023.02.08 22:47:23.686793   No camera connected
+
+Last time start: 2023.02.08 22:50:32.601203   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:50:41.990570   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:52:30.652604   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:54:04.881058   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:54:55.761138   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:55:27.66449   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:56:45.969909   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:58:11.188634   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 22:59:37.833582   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:00:37.605504   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:01:32.702287   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:02:20.764211   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:04:08.381665   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:06:15.379832   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:08:01.837639   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:08:40.132193   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:08:53.890081   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:09:37.628916   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:10:38.835620   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:11:20.823370   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:12:14.196448   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.08 23:12:28.226249   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:13:48.597485   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:14:32.167825   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:16:11.499876   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:16:53.570036   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:17:42.608171   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:18:51.908465   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:19:08.634980   Camera connected
+
+Standard exception thrown: bad conversion
+
+Last time start: 2023.02.09 00:20:10.950310   Camera connected
+
+Standard exception thrown: bad conversion
+
+
+Last time start: 2023.02.12 12:13:32.763320   Camera connected
+
+
+Last time start: 2023.02.12 12:50:47.443148   Camera connected
+
+Last time start: 2023.02.12 12:51:24.985146   Camera connected
+
+Last time start: 2023.02.12 12:51:47.953759   Camera connected
+
+Last time start: 2023.02.12 12:54:16.608877   Camera connected
+
+Last time start: 2023.02.12 12:55:58.834303   Camera connected
+
+Last time start: 2023.02.12 12:58:03.206344   Camera connected
+
+Last time start: 2023.02.12 12:58:52.170936   Camera connected

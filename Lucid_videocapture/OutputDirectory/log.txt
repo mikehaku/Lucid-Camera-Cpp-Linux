@@ -1,0 +1,6 @@
+
+Last time start: 2023.02.08 22:41:17.614684   
+GenICam exception thrown: RuntimeException (GenTL::GC_ERR_RESOURCE_IN_USE): Library already initialized (must initialize only once) (Arena.cpp, OpenSystem; GenTL::GCInitLib); Error Stack:
+  -1004 GenTL::GC_ERR_RESOURCE_IN_USE(-1004) :
+      GCInitLib():734: every call to GenTL::GCInitLib() must be matched with a call to GenTL::GCCloseLib() before calling GenTL::GCInitLib() again
+ (file 'Arena.cpp', line 31)

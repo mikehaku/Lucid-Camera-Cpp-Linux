@@ -1,0 +1,30 @@
+# Basic settings
+TimeBeforeStart: 1000
+TimeOut: 2000
+
+# Acquisition
+#AcquisitionMode: Continuous
+#GainAuto: Off
+#ExposureAuto: Off
+
+# Stream
+#StreamBufferHandlingMode: NewestOnly
+#StreamAutoNegotiatePacketSize: true
+#StreamPacketResendEnable: true
+
+# Exposure settings
+#ExposureAuto: Off
+ExposureTime: 10000
+Gain: 20
+BalanceRatioRed: 1.76
+BalanceRatioGreen: 1
+BalanceRatioBlue: 1.58
+
+# Video settings
+Binning: 1
+Width: 1440
+Height: 928
+fps: 24.0
+VideoLength: 1.0
+VideoPath: /home/haoyang/Cpp_develop/Lucid_video/test/
+VideoCoding: DIVX
